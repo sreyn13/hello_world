@@ -1,2 +1,4 @@
 # hello_world
-setup repository
+
+My name is Samuel, im learning to program\n
+i'm enjoying it so far
